@@ -1,4 +1,5 @@
 # QRcode-Generator
+Run the Python Script 'QRCodeGenerator.py' after installing 'pyqrcode' module.
 pyqrcode
 ================================
 The pyqrcode module is a QR code generator that is simple to use and written
